@@ -118,7 +118,8 @@ For a given output, the GPR learns a function:
 
 $$f(\mathbf{x}) \rightarrow y$$
 ,where:
-$$ \mathbf{x} = [inlet\_velocity, inlet\_temp, battery\_temp, cooler\_1\_temp,....,cooler\_7\_temp]$$
+`x = [inlet_velocity, inlet_temp, battery_temp, cooler_1_temp, ... , cooler_7_temp]`
+
 
 The model predicts both :
 * predticted temperature
