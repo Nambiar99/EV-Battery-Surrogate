@@ -243,7 +243,7 @@ Battery-Surrogate/
 ## Installation
 Clone the repository:
 ```bash
-git clone <URL>
+git clone https://github.com/Nambiar99/EV-Battery-Surrogate
 ```
 Create a virtual environment:
 ```bash
