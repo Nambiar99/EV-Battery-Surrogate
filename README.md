@@ -117,6 +117,7 @@ The intial dataset contains approximately **100 simulation samples**.
 For a given output, the GPR learns a function:
 
 $$f(\mathbf{x}) \rightarrow y$$
+
 ,where:
 `x = [inlet_velocity, inlet_temp, battery_temp, cooler_1_temp, ... , cooler_7_temp]`
 
